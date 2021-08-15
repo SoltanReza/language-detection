@@ -1,6 +1,4 @@
-from googletrans import Translator
 
-
-translator = Translator()
-x = translator.translate("hii")
+from guess_language import guess_language
+x =guess_language("Bonjour madmoiselle")
 print(x)
