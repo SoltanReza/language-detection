@@ -1,5 +1,5 @@
 # language-detection 
-in this project we used [**polyglot 16.7.4**](https://polyglot.readthedocs.io/en/latest/t) library to detect 196 languages around the world
+in this project we used [**polyglot 16.7.4**](https://polyglot.readthedocs.io/en/latest/) library to detect 196 languages around the world
 ## Developers
 - Ali-Mahdiyanjoo
 - ghazal Sayadfar
